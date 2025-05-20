@@ -1,9 +1,9 @@
 # coordinate_autofile
 
-Breve descrizione del progetto (1-2 righe)  
-> Fork / derivazione di [https://github.com/ababino/keypoint_tracking] con modifiche funzionali al mio progetto.
+This python script was made to create a intercative videoplayer which takes input from the keyboard and creates csv files named as the key pressed. Pressing shift saves the frame and the x, y cooridnates to the selected csv file.
+> Inspired by [keypoint_tracking](https://github.com/ababino/keypoint_tracking) 
 
-## Usage
+## Install and Use
 To use this python script you need to install:
 - Anaconda
 Then proceed to install the dependencies specified in ```environment.yml```
